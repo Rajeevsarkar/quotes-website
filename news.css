@@ -1,0 +1,15 @@
+#Navbar {
+  background-color: yellow;
+}
+
+.obj-width {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.navbar {
+  background: yellow;
+}
+#search-box {
+  text-align: right;
+}
